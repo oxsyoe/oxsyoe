@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=OXSYOE.;>•0+%2F%2F+PROTOCOL_V5;Cyber+Security+Researcher;No+filter%2C+pure+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hack&weight=600&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=OXSYOE.;>•0+%2F%2F+V5;Cyber+Security+Researcher;No+filter%2C+pure+work.)](https://git.io/typing-svg)
 
 ```text
 >•<
@@ -15,7 +15,7 @@ Status: ONLINE
 </p>
 
 ```diff
-+ SYSTEM_BREACH_MINIGAME
++ SYSTEM BREACH MINIGAME
 ! Arrow Keys / Click
 # Score: 0
 ```
@@ -101,7 +101,7 @@ skill_breakdown:
 
 ---
 
-### 📡 Connect & Operate
+### Connect & Operate
 
 <p align="center">
   <a href="https://t.me/Z71nx"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -109,8 +109,8 @@ skill_breakdown:
   <a href="https://oxsyoe.xo.je"><img src="https://img.shields.io/badge/Website-00FF00?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 </p>
 
-> **Open to collabs.
-> *No filter, pure work.*
+                                    > **Open to collabs.
+                                    > *No filter, pure work.*
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,15,25,30&height=120&section=footer&fontColor=00FF00"/>
