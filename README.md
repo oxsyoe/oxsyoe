@@ -22,7 +22,7 @@ Status: ONLINE
 
 ---
 
-### 🧬 Operator Bio
+###  Operator Bio
 
 I'm a **Cyber Security Researcher** with deep expertise in:
 - **Darkweb Threat Intelligence**
@@ -30,20 +30,18 @@ I'm a **Cyber Security Researcher** with deep expertise in:
 - **Network Penetration**
 - **Offensive Python toolkits**
 
-🛡️ **Affiliations:** Member of the **Morocco Cyber Team** | Owner of **Cicst Team**
-
-🤖 **Beyond Security:** Architecting AI-powered products (custom bots → full-stack platforms). Shipping real tools, clean code, building to last.
+ **Beyond Security:** Architecting AI-powered products (custom bots → full-stack platforms). Shipping real tools, clean code, building to last.
 
 > *"No filter, no alert — pure work, pure exposé of that system. Against Government, against system."*
 
-📍 **Location:** Russia  
-⏱️ **Experience:** 3+ Years  
-🎯 **Speciality:** Red Team / AI  
-📡 **Status:** Available
+ **Location:** Russia  
+ **Experience:** 3+ Years  
+ **Speciality:** Red Team / AI  
+ **Status:** Available
 
 ---
 
-### ⚔️ Technical Arsenal
+###  Technical Arsenal
 
 ```yaml
 languages:
@@ -67,7 +65,7 @@ skill_breakdown:
   OSINT & Recon: 87%
 ```
 
-### 🧰 Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -90,7 +88,7 @@ skill_breakdown:
 
 ---
 
-### 📊 GitHub Pulse
+###  GitHub Pulse
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oxsyoe&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=CCCCCC"/>
@@ -103,26 +101,15 @@ skill_breakdown:
 
 ---
 
-### 🐍 Agent Flow (Contribution Grid)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oxsyoe/oxsyoe/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oxsyoe/oxsyoe/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/oxsyoe/oxsyoe/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ### 📡 Connect & Operate
 
 <p align="center">
-  <a href="https://twitter.com/oxsyoe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/oxsyoe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/oxsyoe"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:oxsyoe@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+  <a href="https://t.me/Z71nx"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://instagram.com/oxsyoe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://oxsyoe.xo.je"><img src="https://img.shields.io/badge/Website-00FF00?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 </p>
 
-> **Open to collabs, freelance security work, and AI product builds.**
+> **Open to collabs.
 > *No filter, pure work.*
 
 <p align="center">
